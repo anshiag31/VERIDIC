@@ -1,0 +1,15 @@
+a{
+  text-decoration: none;
+  color:black;
+  
+  
+}
+*{
+  text-align: center;
+  font-family: sans-serif;
+  background-color: rgba(255, 250, 184, 0.856);
+}
+ a:hover .card  {
+        transform: scale(1.05);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
